@@ -1,0 +1,5 @@
+To run the client:
+Double-click GUIClient.jar
+
+To run the server:
+enter "java -jar Server.jar" into the command line in the current directory.
